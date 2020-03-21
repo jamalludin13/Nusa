@@ -1,0 +1,15 @@
+pair + weekrly project
+1. cari library populer github berbasis java
+
+1. understand
+2. usable
+
+besasis data
+webservices
+spring
+
+presentasikan apa yang didapat hari selasa
+
+yang mengandung konsep poly inherti, abstract encap
+
+jelaskan mengapa dan beri alasan memilih library tersebut 
